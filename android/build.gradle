@@ -25,7 +25,7 @@ apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
 
 android {
-    namespace "com.yourpackagename.flutter_app_installer"
+    namespace "com.irvinechang.flutter_app_installer"
     compileSdkVersion 31
 
     compileOptions {
